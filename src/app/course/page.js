@@ -12,41 +12,72 @@ function page() {
           <IoShareSocial className="text-xl" />
         </div>
 
-        <div className="w-full h-[80%] grid grid-cols-2 overflow-y-scroll gap-4">
-          <div className=" w-[155px] ">
-            <img src="/cardimg1.svg" alt="" />
-          <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
-          <p className="text-black text-[10px] text-center">Mindful meditation (1 year) 200 RS</p>
-          </div>
+        <div className="w-full h-[80%] overflow-y-scroll">
+          <div className="flex justify-evenly w-full">
+            <div className=" w-[155px] ">
+              <img src="/cardimg1.svg" alt="" />
+              <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
+                <p className="text-black text-[10px] text-center">
+                  Mindful meditation (1 year) 200 RS
+                </p>
+              </div>
+            </div>
+
+            <div className=" w-[155px] ">
+              <img src="/cardimg2.svg" alt="" />
+              <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
+                <p className="text-black text-[10px] text-center">
+                  10 Myths On Marriage 200 RS
+                </p>
+              </div>
+            </div>
           </div>
 
-          <div className=" w-[155px] ">
-            <img src="/cardimg1.svg" alt="" />
-          <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
-          <p className="text-black text-[10px] text-center">Mindful meditation (1 year) 200 RS</p>
-          </div>
+          <div className="flex justify-evenly w-full mt-6">
+            <div className=" w-[155px] ">
+              <img src="/cardimg3.svg" alt="" />
+              <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
+                <p className="text-black text-[10px] text-center">
+                Premarital Counselling(Islam)
+                1000 RS
+                </p>
+              </div>
+            </div>
+
+            <div className=" w-[155px] ">
+              <img src="/cardimg4.svg" alt="" />
+              <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
+                <p className="text-black text-[10px] text-center">
+                HappyMom
+                600 RS
+                </p>
+              </div>
+            </div>
           </div>
 
-          <div className=" w-[155px] ">
-            <img src="/cardimg1.svg" alt="" />
-          <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
-          <p className="text-black text-[10px] text-center">Mindful meditation (1 year) 200 RS</p>
-          </div>
+
+          <div className="flex justify-evenly w-full mt-6">
+            <div className=" w-[155px] ">
+              <img src="/cardimg5.svg" alt="" />
+              <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
+                <p className="text-black text-[10px] text-center">
+                Premarital Counselling(Islam)
+                1000 RS
+                </p>
+              </div>
+            </div>
+
+            <div className=" w-[155px] ">
+              <img src="/cardimg6.svg" alt="" />
+              <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
+                <p className="text-black text-[10px] text-center">
+                  10 Myths On Marriage 200 RS
+                </p>
+              </div>
+            </div>
           </div>
 
-          <div className=" w-[155px] ">
-            <img src="/cardimg1.svg" alt="" />
-          <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
-          <p className="text-black text-[10px] text-center">Mindful meditation (1 year) 200 RS</p>
-          </div>
-          </div>
 
-          <div className=" w-[155px] ">
-            <img src="/cardimg1.svg" alt="" />
-          <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
-          <p className="text-black text-[10px] text-center">Mindful meditation (1 year) 200 RS</p>
-          </div>
-          </div>
         </div>
       </div>
       <div>

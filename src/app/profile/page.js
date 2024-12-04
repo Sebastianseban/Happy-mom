@@ -73,7 +73,7 @@ function page() {
       </div>
       
 
-      <img className="absolute top-0 left-0 " src="/line.svg" alt="" />
+      <img className="w-full absolute  -top-32 left-0 " src="/line.svg" alt="" />
 
       <Footer/>
     </div>
