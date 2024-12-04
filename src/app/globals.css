@@ -2,20 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+.bg-color {
+  background: linear-gradient(
+    220deg,
+    rgba(182, 227, 196, 0.6) 0%,
+    rgba(182, 227, 196, 0.6) 50%,
+    rgba(251, 212, 87, 0.6) 100%
+  );
+}
+.bg-img {
+  background-image: url(/homebg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.inter {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.card-bg{
+  background: radial-gradient(circle, rgba(195,191,185,1) 2%, rgba(119,111,98,0.8029805672268908) 42%);
 }
+
+
