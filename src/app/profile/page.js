@@ -12,7 +12,7 @@ function page() {
           <MdOutlineSettings className="text-xl z-50" />
         </div>
       </div>
-      <div className="flex w-full">
+      <div className="flex w-full  xs:bg-[#ffffff4e] xs:py-4">
         <div className="text-[12px] text-black flex flex-col gap-y-2 justify-center items-center w-[40%]">
           <img className="w-[100px] z-50" src="/profilepic.svg" alt="" />
           <p className="z-50">Name</p>
@@ -73,7 +73,7 @@ function page() {
       </div>
       
 
-      <img className="w-full absolute  -top-32 left-0 " src="/line.svg" alt="" />
+      <img className="w-full xs:w-0 absolute  -top-20    left-0  " src="/line.svg" alt="" />
 
       <Footer/>
     </div>

@@ -27,7 +27,7 @@ function page() {
               <img src="/cardimg2.svg" alt="" />
               <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
                 <p className="text-black text-[10px] text-center">
-                  10 Myths On Marriage 200 RS
+                  10 Myths On Marriage <br /> 200 RS
                 </p>
               </div>
             </div>
@@ -48,7 +48,7 @@ function page() {
               <img src="/cardimg4.svg" alt="" />
               <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
                 <p className="text-black text-[10px] text-center">
-                HappyMom
+                HappyMom <br />
                 600 RS
                 </p>
               </div>
@@ -71,7 +71,7 @@ function page() {
               <img src="/cardimg6.svg" alt="" />
               <div className="bg-[#ffffff65] rounded-b-lg p-2 ">
                 <p className="text-black text-[10px] text-center">
-                  10 Myths On Marriage 200 RS
+                  10 Myths On Marriage <br /> 200 RS
                 </p>
               </div>
             </div>

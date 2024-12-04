@@ -31,7 +31,7 @@ function page() {
             </div>
           </div>
         </div>
-<div className="px-[16px]">
+<div className="px-[16px] overflow-y-scroll h-[80%] pb-20 ">
 
 <div className="flex justify-between  mt-10">
           <p>Description</p>
@@ -79,9 +79,22 @@ function page() {
           <p>250</p>
           <p>2024-10-31</p>
         </div>
-
-
         <div className="py-4 w-full bg-[#ffffff70] flex justify-between px-1 mt-2 rounded-[5px]">
+          <p>Course Incentives</p>
+          <p>250</p>
+          <p>2024-10-31</p>
+        </div><div className="py-4 w-full bg-[#ffffff70] flex justify-between px-1 mt-2 rounded-[5px]">
+          <p>Course Incentives</p>
+          <p>250</p>
+          <p>2024-10-31</p>
+        </div><div className="py-4 w-full bg-[#ffffff70] flex justify-between px-1 mt-2 rounded-[5px]">
+          <p>Course Incentives</p>
+          <p>250</p>
+          <p>2024-10-31</p>
+        </div>
+
+
+        <div className="py-4 w-full bg-[#ffffff70] flex justify-between px-1 mt-2 rounded-[5px]  " >
           <p>Course Incentives</p>
           <p>250</p>
           <p>2024-10-31</p>
